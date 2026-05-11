@@ -34,11 +34,6 @@
 
 笔记会随着复习进度持续补充和修订。如果你有建议或发现了错误，欢迎提 Issue 或 Pull Request。
 
-## 📌 相关链接
-
-- [计算机学科专业基础综合考试大纲](https://yz.chsi.com.cn/kyzx/other/202309/20230921/2360759915.html)
-- [Obsidian 官网](https://obsidian.md)
-
 ---
 
 > 💡 如果这个笔记对你有帮助，欢迎 Star ⭐
