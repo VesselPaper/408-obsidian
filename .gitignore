@@ -1,3 +1,13 @@
-.obsidian/workspace
-.obsidian/cache/
+# Obsidian 配置目录（不同设备配置不同，不建议提交）
+.obsidian/
+
+# Obsidian 回收站
 .trash/
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 临时文件
+*.tmp
+~$*
